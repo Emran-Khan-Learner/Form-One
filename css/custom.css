@@ -60,7 +60,7 @@ nav ul li a:hover{
 	color: #71aa50;
 }
 nav ul li .logo:hover{
-	background-color: #1E497D;
+	background-color: none;
 }
 nav img{
 	max-width: 100%;
